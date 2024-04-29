@@ -2,8 +2,6 @@
 
 Welcome to my garden
 
-![PXL_20220814_160500784](https://user-images.githubusercontent.com/5330444/186767362-6dc36764-0c2c-4a36-ad5f-08f5b823fe2c.jpg)
-
 ## Project structure
 
 This project is split into two pieces as our greenhouse is a good distance
